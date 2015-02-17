@@ -36,5 +36,6 @@ return [
             'sizeFormatBase' => 1000
         ],
     ],
-    'bootstrap' => ['admin']
+    'bootstrap' => ['admin'],
+    'test' => 'test'
 ];
