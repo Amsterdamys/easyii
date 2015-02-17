@@ -37,5 +37,6 @@ return [
         ],
     ],
     'bootstrap' => ['admin'],
-    'test' => 'test'
+    'test' => 'test',
+    'test2' => 'test2'
 ];
